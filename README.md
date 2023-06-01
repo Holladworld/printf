@@ -1,9 +1,11 @@
 # 0x11. C - printf
-````
+
+```` c
 int printf ( const char * format, ... );
-```
+````
 
 This is a team project work from ALX to create a customized printf
+
 ## About the project
 This is a rebuild of the standard printf Function in C program. This project is a teamwork as part of our study of C program knowledge in cohort 14 of [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2023) that started in the month of April 14th, 2023.
 
