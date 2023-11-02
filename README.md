@@ -1,6 +1,6 @@
-# 0x11. C - printf
+#  C - printf
 
-```` c
+```` 
 int printf ( const char * format, ... );
 ```
 
