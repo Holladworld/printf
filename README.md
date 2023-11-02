@@ -2,7 +2,7 @@
 
 ```` c
 int printf ( const char * format, ... );
-````
+```
 
 This is a team project work from ALX to create a customized printf
 
@@ -86,7 +86,6 @@ This is a rebuild of the standard printf Function in C program. This project is 
 - [ ] Handle conversion specifiers **d**, **i**.
 - [ ] Create a man page for your function
 
-
 ## Advanced Tasks  
 - [ ] Handle conversion specifier **b**.
 - [ ] Handle conversion specifiers **u**, **o**, **x**, **X**.
@@ -107,17 +106,18 @@ This is a rebuild of the standard printf Function in C program. This project is 
 |:-----:|:--------------------:|:--------------------|
 |  1.   |		       |		     |
 
-````
+
 ## [Flowchart.](https://photos.app.goo.gl/5SQMnxrmd7nkLr3a6)
 ## How to use.
-### Complilation
+### Complilation 
 All of the ``.c`` files along with a main.c file are to be compiled with ``gcc 4.8.4`` on Ubuntu 14.04 LTS with the flags ``-Wall Werror`` ``-Westra`` and ``-pedantic.``
 
 The files will be compiled this way:
-- ``gcc -Wall -Werror -Wextra -pedantic *.c``
+- ``gcc -Wall -Werror -Wextra -pedantic *.c````
 
 ## Authors
-[Oladimei Olayinka](https://github.com/holladworld) | [ILESANMI Esther](https://github.com/Ilesanmiester)
+- [Oladimei Olayinka](https://github.com/holladworld)  
+- [ILESANMI Esther](https://github.com/Ilesanmiester)
 
 
 ## Acknowledgement
